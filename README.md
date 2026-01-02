@@ -1,4 +1,4 @@
-# The Proposal
+# Part I: The Proposal
 
 ## Other Requirements:
 1.	Turn in this Word DOC containing your proposal for the project.   Fill out this form and answer the questions fully. Also, turn in a copy of the data file.  The data file can be a .txt file or an Excel file.
