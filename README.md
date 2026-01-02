@@ -45,7 +45,7 @@ The program not only explores three data facts but also has three functions, i.e
 
 The .h function displays how .cpp files would look like. Therefore, this one is a replicate of cpp functions for this entire project plan. 
 
-**Thannks**
+**Thanks**
 
 
 # Sources:
