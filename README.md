@@ -21,7 +21,7 @@ You will need to answer the following questions concerning your website, data, a
 
 **Turn in requirements:  1) this completed document, 2) a copy of the data file.**
 
-**Questions:**
+## **Questions:**
 1. **What is the website you used to obtain your data? List the agency/organization as well as the specific URL. Your instructor should be able to go and find your data from this information.**
    
 For this project proposal, the following is the URL of the data file the user is going to use in this program. The data file is about the bitcoin sales in the $ from 2014 to 2021. It is in .csv.
@@ -39,7 +39,7 @@ The project determines the number of rows and columns in our CSV file. The proje
 
 The program not only explores three data facts but also has three functions, i.e., Functions.h, Functions.cpp, and Driver.cpp. Here’s the code to show the face of my project plan. 
 
-**Functions.h**
+## **Functions.h**
 
 <img width="640" height="186" alt="image" src="https://github.com/user-attachments/assets/897b1adf-5dfe-4708-92a7-f2329aeb84ab" />
 
